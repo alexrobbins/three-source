@@ -5,7 +5,7 @@
                            [ring/ring-jetty-adapter "1.0.0-RC1"]
                            [ring-reload-modified "0.1.1"]
                            [compojure "0.6.3"]
-                           [enlive "1.0.0"]]
+                           [hiccup "0.3.7"]]
             :dev-dependencies [[org.clojars.autre/lein-vimclojure "1.0.0"]
                                [vimclojure/server "2.2.0"]]
             :main three-source.server)

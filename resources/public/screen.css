@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+}
+.who-did-what table {
+    margin: 0 auto;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.samples {
+    text-align: center;
+}
+
+.results p {
+    text-align: center;
+}
+
+.results table {
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid black;
+}
+.results tr.odd {
+    background-color: #D9D9D9;
+}
+.results tr:hover {
+    background-color: #FFA;
+}
